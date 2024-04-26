@@ -31,6 +31,7 @@ Most Reserved Room Type: Room type A is the most reserved. Sunshine resort shoul
 Highest Booking Months: August and July experience the highest number of bookings. We should use this information to optimize staffing levels, inventory management, and marketing efforts during peak booking months.
 Deposit and Refund Policy: Since "no deposit" has the highest frequency followed by "no refund," consider revising deposit and refund policies to strike a balance between guest convenience and revenue protection.
 City Hotel: Given that the city hotel has the highest number of customers, allocate resources strategically to maintain service quality, manage guest flow efficiently, and enhance guest satisfaction.
+
 Overall Recommendation: Focus on enhancing guest experiences through personalized services, revising policies to align with guest preferences, optimizing operations during peak booking months, and maintaining service quality at the city hotel to drive guest satisfaction and loyalty.
 
 

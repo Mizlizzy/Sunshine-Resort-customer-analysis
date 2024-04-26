@@ -22,3 +22,5 @@ Sunshine Resort is a luxurious beachfront hotel management company that caters t
 19.	previous_bookings_not_canceled: Number of previous bookings not canceled by the guest
 20.	reserved_room_type: Type of room reserved by the guest
 21.	assigned_room_type: Type of room assigned to the guest at check-in
+# Analysis
+![image](https://github.com/Mizlizzy/Sunshine-Resort-customer-analysis/assets/125541494/4ac200ca-d66d-48f9-b1ec-92cf5f85420a)

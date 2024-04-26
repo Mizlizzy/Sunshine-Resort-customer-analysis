@@ -24,3 +24,17 @@ Sunshine Resort is a luxurious beachfront hotel management company that caters t
 21.	assigned_room_type: Type of room assigned to the guest at check-in
 # Analysis
 ![image](https://github.com/Mizlizzy/Sunshine-Resort-customer-analysis/assets/125541494/4ac200ca-d66d-48f9-b1ec-92cf5f85420a)
+# Recommendation of the Analysis
+Booking Changes: With a significant number of booking changes (3810), it's important to analyze the reasons behind these changes. We should consider implementing a more flexible booking policy or providing clearer information to guests during the booking process to reduce the need for changes.
+Repeated Guests: With a substantial number of repeated guests (718), We should focus on enhancing guest loyalty programs and personalized services to further incentivize guests to return.
+Most Reserved Room Type: Room type A is the most reserved. Sunshine resort should ensure that this room type meets or exceeds guest expectations in terms of comfort, amenities, and cleanliness to maintain positive guest experiences.
+Highest Booking Months: August and July experience the highest number of bookings. We should use this information to optimize staffing levels, inventory management, and marketing efforts during peak booking months.
+Deposit and Refund Policy: Since "no deposit" has the highest frequency followed by "no refund," consider revising deposit and refund policies to strike a balance between guest convenience and revenue protection.
+City Hotel: Given that the city hotel has the highest number of customers, allocate resources strategically to maintain service quality, manage guest flow efficiently, and enhance guest satisfaction.
+Overall Recommendation: Focus on enhancing guest experiences through personalized services, revising policies to align with guest preferences, optimizing operations during peak booking months, and maintaining service quality at the city hotel to drive guest satisfaction and loyalty.
+
+
+
+
+
+
